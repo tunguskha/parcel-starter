@@ -38,3 +38,5 @@ Thumbs.db
 
 # ParcelJS #
 .cache
+dev-parcel
+/dev-parcel/
